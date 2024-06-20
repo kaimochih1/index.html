@@ -1,0 +1,23 @@
+
+.header{
+    color: rgb(255, 255, 255);
+    background-color: black;
+    height: 60px;
+    font-size: 50px;
+    font-family: helvetica;
+}
+
+.main{
+    color: rgb(0, 0, 0);
+    background-color: white;
+    height: 1000px;
+}
+h1{
+    font-family: Helvetica; 
+}
+.footer{
+    color: rgb(255, 255, 255);
+    background-color: black;
+    height: 60px;
+    font-family: helvetica;
+}
